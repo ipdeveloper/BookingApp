@@ -17,4 +17,8 @@ public class MainActivity extends BookingActivity {
         setContentView(R.layout.activity_main);
 
     }
+    private void f()
+    {
+
+    }
 }
