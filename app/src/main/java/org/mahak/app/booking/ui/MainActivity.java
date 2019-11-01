@@ -3,6 +3,7 @@ package org.mahak.app.booking.ui;
 import androidx.appcompat.app.AlertDialog;
 import androidx.appcompat.app.AppCompatActivity;
 
+import android.app.Activity;
 import android.content.DialogInterface;
 import android.os.Bundle;
 import android.widget.TextView;
@@ -21,4 +22,28 @@ public class MainActivity extends BookingActivity {
         t.setTe
 
     }
+
+    private void f() {
+
+    }
+
+    class Dialog {
+        void f() {
+            g(Dialog.this);
+            h(MainActivity.this);
+
+        }
+    }
+
+
+    void g(Dialog g)
+    {
+
+    }
+
+    void h(Activity a)
+    {
+
+    }
+
 }
